@@ -52,5 +52,6 @@ result = Label(root, text="")
 result.pack()
 
 root.mainloop()
-# output
+
+
 
